@@ -11,16 +11,16 @@ const types = [
     {
         label: 'Web Application',
         value: 'cnn-starter-app'
+    },
+    {
+         label: 'API',
+         value: 'cnn-starter-api'
     }
     // ,
     // @TODO: add support for override, this will trigger a secondary prompt
     // {
     //     label: 'Other',
     //     value: 'other'
-    // },
-    // {
-    //     label: 'API',
-    //     value: 'cnn-starter-api'
     // }
 ]
 
